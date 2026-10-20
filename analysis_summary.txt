@@ -1,0 +1,16 @@
+UNEMPLOYMENT DATA ANALYSIS SUMMARY
+========================================
+Source file: Unemployment in India.csv
+Valid records analyzed: 740
+Regions included: 28
+Date range: 2019-05-31 to 2020-06-30
+
+Overall average unemployment rate: 11.79%
+Highest monthly average: 24.88% (2020-05)
+Lowest monthly average: 8.87% (2019-05)
+Highest-average unemployment region: Tripura (28.35%)
+Lowest-average unemployment region: Meghalaya (4.80%)
+
+Average unemployment rate by area:
+  Rural: 10.32%
+  Urban: 13.17%
